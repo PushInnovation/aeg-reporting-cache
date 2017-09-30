@@ -1,4 +1,4 @@
-import { Cache } from '@adexchange/aeg-cache';
+import { Cache } from '@push_innovation/aeg-cache';
 import * as CacheKeys from './cache-keys';
 import { IReportingCacheResolveKeyOptions } from './types';
 
